@@ -1,0 +1,6 @@
+{
+  "name": "Apex Intake Partners",
+  "description": "Specialised B2B client intake and TCPA-conscious appointment setting agency serving U.S. timeshare exit companies and consumer law firms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
